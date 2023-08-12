@@ -1,0 +1,12 @@
+.bikerz-bg-icon{
+    background-color: green;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+  }
+  
